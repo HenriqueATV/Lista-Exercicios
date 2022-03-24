@@ -25,19 +25,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conversor.Dolar", "Converso
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06-Exercicio", "06-Exercicio", "{42ECC62C-A3B5-439B-8EC4-243AA23EE2D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identificador.Vogais", "Identificador.Vogais\Identificador.Vogais.csproj", "{C25FEEBE-AA2D-4087-BD20-67F5DE273186}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Identificador.Vogais", "Identificador.Vogais\Identificador.Vogais.csproj", "{C25FEEBE-AA2D-4087-BD20-67F5DE273186}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07-Exercicio", "07-Exercicio", "{B2477EBA-D409-4F8F-B024-3E21369C96ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identificador.Consoantes", "Identificador.Consoantes\Identificador.Consoantes.csproj", "{6523DF6F-7839-4788-A708-DAADD93E1DB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Identificador.Consoantes", "Identificador.Consoantes\Identificador.Consoantes.csproj", "{6523DF6F-7839-4788-A708-DAADD93E1DB5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08-Exercicio", "08-Exercicio", "{985F5C0B-AE45-46F6-B9FF-1615FDE9FE14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faixa.Etária", "Faixa.Etária\Faixa.Etária.csproj", "{B81846FA-61CF-4FB4-85E3-69AE014ECF25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Faixa.Etária", "Faixa.Etária\Faixa.Etária.csproj", "{B81846FA-61CF-4FB4-85E3-69AE014ECF25}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09-Exercicio", "09-Exercicio", "{82D78CFC-CE83-4BA7-B360-12AA2A7F2BDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastro.Biblioteca", "Cadastro.Biblioteca\Cadastro.Biblioteca.csproj", "{BF5EA35C-6A37-44A1-969D-2623FC652209}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cadastro.Biblioteca", "Cadastro.Biblioteca\Cadastro.Biblioteca.csproj", "{BF5EA35C-6A37-44A1-969D-2623FC652209}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10-Exercício", "10-Exercício", "{73B2FB37-ED59-4390-8E37-9D00075309FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmo", "Algoritmo\Algoritmo.csproj", "{73B8ED0D-6D26-40AB-A3C4-71E4EE6B09A4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11-Exercicio", "11-Exercicio", "{5E55EABE-5C85-4AD1-9A05-798529A7FD90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastro.Aluno", "Cadastro.Aluno\Cadastro.Aluno.csproj", "{80A9FEFF-C8A8-4A02-A275-03D9A2E2A8C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +89,14 @@ Global
 		{BF5EA35C-6A37-44A1-969D-2623FC652209}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF5EA35C-6A37-44A1-969D-2623FC652209}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF5EA35C-6A37-44A1-969D-2623FC652209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73B8ED0D-6D26-40AB-A3C4-71E4EE6B09A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B8ED0D-6D26-40AB-A3C4-71E4EE6B09A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B8ED0D-6D26-40AB-A3C4-71E4EE6B09A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B8ED0D-6D26-40AB-A3C4-71E4EE6B09A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80A9FEFF-C8A8-4A02-A275-03D9A2E2A8C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A9FEFF-C8A8-4A02-A275-03D9A2E2A8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A9FEFF-C8A8-4A02-A275-03D9A2E2A8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A9FEFF-C8A8-4A02-A275-03D9A2E2A8C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -95,6 +111,8 @@ Global
 		{6523DF6F-7839-4788-A708-DAADD93E1DB5} = {B2477EBA-D409-4F8F-B024-3E21369C96ED}
 		{B81846FA-61CF-4FB4-85E3-69AE014ECF25} = {985F5C0B-AE45-46F6-B9FF-1615FDE9FE14}
 		{BF5EA35C-6A37-44A1-969D-2623FC652209} = {82D78CFC-CE83-4BA7-B360-12AA2A7F2BDB}
+		{73B8ED0D-6D26-40AB-A3C4-71E4EE6B09A4} = {73B2FB37-ED59-4390-8E37-9D00075309FB}
+		{80A9FEFF-C8A8-4A02-A275-03D9A2E2A8C8} = {5E55EABE-5C85-4AD1-9A05-798529A7FD90}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9E113FB4-1961-4ACD-B5A1-D5048C76D6A3}
